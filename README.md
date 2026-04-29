@@ -2,7 +2,7 @@
 
 - [シラバス](./gp2_2026_syllabus.pdf)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
-- [講義日程](https://github.com/datgm26/design/blob/main/fri.md)
+- [講義日程](https://github.com/datgm26/design/blob/main/thu.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 
 ## 1回目(4/30)
