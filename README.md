@@ -11,6 +11,8 @@
 
 - ガイダンス
   - [シラバス](./gp2_2026_syllabus.pdf)
+- 春休み中の成果の共有
+  - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - テーマを考える
   - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
 - 考えたテーマを表題にしたGoogleドキュメントを作成して共有
