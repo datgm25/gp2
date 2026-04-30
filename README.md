@@ -5,6 +5,20 @@
 - [講義日程](https://github.com/datgm26/design/blob/main/thu.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 
+## 2回目(5/7)
+
+### 話題
+
+- [ZDNET Japan. 10日で開発したL・トーバルズ氏も想定外？--「Git」誕生から20年、定番VCSの軌跡とその影響](https://japan.zdnet.com/article/35231917/)
+
+### 内容
+
+- 簡単なUnityチーム開発
+  - [練習用リポジトリー](https://github.com/tanakaedu/GP2Sandbox)
+    - フォークしてから、クローンする
+  - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+- 卒業制作の進捗共有
+
 ## 1回目(4/30)
 
 ### 内容
