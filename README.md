@@ -5,6 +5,16 @@
 - [講義日程](https://github.com/datgm26/design/blob/main/thu.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 
+## 3回目(5/14)
+
+### 予定
+
+- 簡単なUnityチーム開発
+  - [練習用リポジトリー](https://github.com/tanakaedu/GP2Sandbox)
+  - チーム制作の流れ、衝突（コンフリクト）の対応
+- [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+
+
 ## 2回目(5/7)
 
 ### 話題
@@ -16,7 +26,6 @@
 - 簡単なUnityチーム開発
   - [練習用リポジトリー](https://github.com/tanakaedu/GP2Sandbox)
     - フォークしてから、クローンする
-  - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
 - 卒業制作の進捗共有
 
 ## 1回目(4/30)
