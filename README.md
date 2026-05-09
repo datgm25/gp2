@@ -7,6 +7,10 @@
 
 ## 3回目(5/14)
 
+### 話題
+
+- [Yahoo!きっず. AIでゲームつくりエイター](https://kids.yahoo.co.jp/event/mag/aigame/)
+
 ### 予定
 
 - 簡単なUnityチーム開発
