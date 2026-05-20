@@ -5,13 +5,25 @@
 - [講義日程](https://github.com/datgm26/design/blob/main/thu.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 
+## 4回目
+
+### 話題
+
+- [集英社ゲームズが新たな企画公募を開始！ 開発費の出資から制作メンバー探しまで「共に作るパブリッシャー」として全面サポート](https://shueisha-games.com/news/20260519_pitchyourgame/)
+
+### 予定
+
+- 前回の復習
+- [プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
+- [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+
 ## 3回目(5/14)
 
 ### 話題
 
 - [Yahoo!きっず. AIでゲームつくりエイター](https://kids.yahoo.co.jp/event/mag/aigame/)
 
-### 予定
+### 内容
 
 - 簡単なUnityチーム開発
   - [練習用リポジトリー](https://github.com/tanakaedu/GP2Sandbox)
