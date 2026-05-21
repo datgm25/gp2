@@ -10,6 +10,7 @@
 ### 話題
 
 - [集英社ゲームズが新たな企画公募を開始！ 開発費の出資から制作メンバー探しまで「共に作るパブリッシャー」として全面サポート](https://shueisha-games.com/news/20260519_pitchyourgame/)
+- [スクエアエニックス. GAME CONTEST 2026](https://gc2026.jp.square-enix.com/)
 
 ### 予定
 
