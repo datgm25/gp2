@@ -5,6 +5,14 @@
 - [講義日程](https://github.com/datgm26/design/blob/main/thu.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 
+## 5回目
+
+### 予定
+
+- [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+  - p4から
+
+
 ## 4回目
 
 ### 話題
@@ -13,11 +21,12 @@
 - [スクエアエニックス. GAME CONTEST 2026](https://gc2026.jp.square-enix.com/)
 - [講談社ゲームラボ](https://creatorslab.kodansha.co.jp/game/)
 
-### 予定
+### 内容
 
 - 前回の復習
 - [プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+  - オブジェクトの選び方まで
 
 ## 3回目(5/14)
 
