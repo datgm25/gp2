@@ -5,13 +5,20 @@
 - [講義日程](https://github.com/datgm26/design/blob/main/thu.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 
+## 6回目
+
+### 予定
+
+- [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+  - p11. 抽象メソッドと抽象クラスから
+
 ## 5回目
 
 ### 話題
 
 - [MIT Tech Review. 「Claudeに任せてしまおう」 たった1年で激変したソフトウェア開発](https://www.technologyreview.jp/s/383499/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/)
 
-### 予定
+### 内容
 
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
   - p4から
