@@ -7,6 +7,10 @@
 
 ## 5回目
 
+### 話題
+
+- [MIT Tech Review. 「Claudeに任せてしまおう」 たった1年で激変したソフトウェア開発](https://www.technologyreview.jp/s/383499/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/)
+
 ### 予定
 
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
