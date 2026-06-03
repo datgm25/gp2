@@ -11,6 +11,13 @@
 
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
   - p11. 抽象メソッドと抽象クラスから
+- SOLID原則
+  - [S. 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/)
+  - [O. OPEN・CLOSEDの原則](https://docs.google.com/document/d/1DRVpIPlE-lMEeOZqPzA3kfO4hJLHhT5ij7tzZ2d7Ids/)
+  - [L. リスコフの置換原則](https://docs.google.com/document/d/1HZwvd3D9xl6WKje67xjGv7D6J61q3oN80s153cWqX8A/)
+  - [I. インターフェース分離の原則](https://docs.google.com/document/d/17sJ1imhvRp2jPmW7xTcJ2iS3KeUKahFLzVnLWf_Ny8g/)
+  - [D. 依存関係逆転の原則](https://docs.google.com/document/d/1o9ZfMAkwgBInJSyvRiD9AShPvXH-POsSoAyGseShP48/)
+  - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
 
 ## 5回目
 
