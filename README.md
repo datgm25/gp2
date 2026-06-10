@@ -7,6 +7,8 @@
 
 ## 7回目
 
+本日も、オンライン講義です。先週と同様の手順で、Zoomに接続してください。接続に問題があれば、 yrk00337@gmail.com へメールでお知らせください。
+
 ### 予定
 
 - 復習：[オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
