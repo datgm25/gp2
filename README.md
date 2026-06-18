@@ -6,11 +6,19 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 
+## 9回目
+
+### 予定
+
+- SOLID原則 リスコフの置換原則から
+  - [D. 依存関係逆転の原則](https://docs.google.com/document/d/1o9ZfMAkwgBInJSyvRiD9AShPvXH-POsSoAyGseShP48/)
+  - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
+
 ## 8回目
 
 本日も、オンライン講義です。先週と同様の手順で、Zoomに接続してください。接続に問題があれば、 yrk00337@gmail.com へメールでお知らせください。
 
-### 予定
+### 話題
 
 - SOLID原則 リスコフの置換原則から
   - [S. 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/)
