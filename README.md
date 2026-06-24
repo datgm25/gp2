@@ -6,13 +6,28 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 
-## 9回目
 
-### 予定
+
+<!--
 
 - SOLID原則 リスコフの置換原則から
   - [D. 依存関係逆転の原則](https://docs.google.com/document/d/1o9ZfMAkwgBInJSyvRiD9AShPvXH-POsSoAyGseShP48/)
   - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
+
+-->
+
+## 9回目
+
+### 予定
+
+- 卒業制作や個人制作のうち、評価を受けたいプロジェクトを講師に共有する
+  - 過去に共有済みのプロジェクトは、最新版に更新しておくだけで大丈夫です
+  - はじめて共有するプロジェクトは、以下で共有してください
+    - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- 共有したUnityプロジェクトフォルダー直下のREADME.mdを開いて、次のことを記載してください
+  - 自分が担当したプログラムのパスと内容。全部担当していたら、全部と書いておけばよい
+  - その中で、一番工夫したクラスと、設計上の自慢点
+  - プログラム以外なら、Googleドキュメントなどで、卒業制作や個人制作で取り組んだことについて記載して、共有URLを提出
 
 ## 8回目
 
