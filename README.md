@@ -22,8 +22,9 @@
 
 - Nikasan541/CoinPusher2
 - miyajimatakumi/TakoyakiSimulatorGame
+- DotsTim/Rain-Echo
 
-### 予定
+### 内容
 
 - 卒業制作や個人制作のうち、評価を受けたいプロジェクトを講師に共有する
   - 過去に共有済みのプロジェクトは、最新版に更新しておくだけで大丈夫です
