@@ -16,9 +16,17 @@
 
 -->
 
-## 10回目
+## 11, 12回目
 
 ### 予定
+
+- [技術レポートを書く](https://docs.google.com/document/d/1pN0-V7FFfZClCOHSM--se3JSA0FP20g7aP54_6T6mmw/)
+  - [10回目の提出物へのコメント](https://docs.google.com/document/d/1c6vp5Bg93ao_47QoH64yTnQ0HBZLJOaLE9i0g2_ICdw/)を参照して、修正や加筆内容を把握して、作業を進める
+  - 提出は、夏休みが明けて2週目の14回目。時間はあるので、卒業制作と並行して進める
+
+## 10回目
+
+### 内容
 
 - [技術レポートを書く](https://docs.google.com/document/d/1pN0-V7FFfZClCOHSM--se3JSA0FP20g7aP54_6T6mmw/)
 - ドキュメントの作成と共有
